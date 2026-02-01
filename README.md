@@ -125,9 +125,3 @@ Sinta-se à vontade para usar, modificar e distribuir.
 
 ---
 
-Se quiser, posso:
-
-* Ajustar o README pra um **tom mais poético ou minimalista**
-* Criar um **`.env` + refatoração de segurança**
-* Sugerir uma **estrutura de projeto mais profissional**
-* Traduzir o README pra inglês 🌍
