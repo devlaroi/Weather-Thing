@@ -56,7 +56,6 @@ The project’s goal is to provide detailed meteorological information directly 
 
 ```bash
 git clone https://github.com/pabloarzaoo/Weather-Thing
-cd weather-cli
 ```
 
 2. Install the dependencies:
