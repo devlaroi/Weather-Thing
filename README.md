@@ -71,7 +71,7 @@ pip install requests pytz
 Run the script:
 
 ```bash
-python weather.py
+python weatherthing.py
 ```
 
 The program will:
