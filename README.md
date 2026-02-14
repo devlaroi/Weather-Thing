@@ -66,23 +66,6 @@ pip install requests pytz
 
 ---
 
-## 🔑 API Configuration
-
-This project uses the **free OpenWeatherMap API**.
-
-1. Create an account at:
-   [https://openweathermap.org/api](https://openweathermap.org/api)
-2. Generate your **API Key**
-3. Replace the key in the code:
-
-```python
-api_key = 'YOUR_API_KEY_HERE'
-```
-
-⚠️ **Important:** It is not recommended to commit your API key to public repositories.
-
----
-
 ## ▶️ How to Use
 
 Run the script:
@@ -97,7 +80,7 @@ The program will:
 2. Automatically detect your location
 3. Fetch current weather data
 4. Display a detailed 5-day forecast
-5. Show air quality information (when available)
+5. Show air quality information
 
 ---
 
